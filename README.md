@@ -1,56 +1,60 @@
 # 🌦️ Weather App
 
-A clean and responsive **Weather App** built using **HTML, CSS, and JavaScript**, powered by a public weather API. It allows users to search for a city and get real-time weather data like **temperature**, **conditions**, **humidity**, and more.
+A sleek and responsive **Weather App** built using **HTML, CSS, and JavaScript**. It fetches real-time weather data using the **OpenWeatherMap API**, allowing users to search for any city and instantly view the current weather conditions.
 
 ---
 
 ## 🔗 Live Preview
 
-🌐 [View Live Weather App](https://nikkifyai.github.io/weather-app/)  
-> *(Update the link after deploying on GitHub Pages)*
+🌐 [Click here to try it out!](https://nikkifyai.github.io/weather-app/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 💻 **HTML** – Page structure  
-- 🎨 **CSS** – Styling and layout  
-- ⚙️ **JavaScript** – API integration and dynamic UI  
-- ☁️ **OpenWeatherMap API** – Real-time weather data
+- 💻 HTML — For page structure
+- 🎨 CSS — For styling and layout
+- ⚙️ JavaScript — To fetch and display live weather data
+- ☁️ OpenWeatherMap API — For accurate real-time weather info
 
 ---
 
 ## ✨ Features
 
-- 🔍 City name search
-- 📍 Real-time weather info: Temperature, Humidity, Description
-- 🌤️ Weather icon updates based on condition
-- 💡 Error handling for invalid city names
-- 📱 Responsive on desktop & mobile
+- 🔍 Search weather by city name
+- 📍 Displays:
+  - Temperature
+  - Weather condition (e.g., Clouds, Rain, Clear)
+  - Humidity and wind speed
+  - Weather icons based on condition
+- 📱 Fully responsive design (mobile-friendly)
+- 💡 Handles invalid city input with error alerts
 
 ---
 
-## 📁 Project Structure
-
+## 📁 Folder Structure
+📦 weather-app/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Run Locally
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/nikkifyai/weather-app.git
+cd weather-app
 ---
 
-## ✅ Next Steps:
+## ✅ How to Use This
 
-### 🔹 Want to Save It?
-Follow the same process as we did earlier:
-- Save as `README.md` in your project folder
-- Run:
+1. Save this as `README.md` inside your `weather-app` folder
+2. Push it to GitHub:
 ```bash
 git add README.md
-git commit -m "Add Weather App README"
+git commit -m "Add final README"
 git push
-
 
