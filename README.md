@@ -32,3 +32,25 @@ A clean and responsive **Weather App** built using **HTML, CSS, and JavaScript**
 
 ## 📁 Project Structure
 
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/nikkifyai/weather-app.git
+---
+
+## ✅ Next Steps:
+
+### 🔹 Want to Save It?
+Follow the same process as we did earlier:
+- Save as `README.md` in your project folder
+- Run:
+```bash
+git add README.md
+git commit -m "Add Weather App README"
+git push
+
+
